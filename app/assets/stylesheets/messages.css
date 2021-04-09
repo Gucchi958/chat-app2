@@ -16,7 +16,7 @@
 
 .side-container{
   background-color: #2F3E51;
-  height: calc(100vh - 100px)
+  height: calc(100vh - 100px);
   padding: 0 20px;
 }
 
